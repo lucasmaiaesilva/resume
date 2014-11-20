@@ -77,7 +77,7 @@ Estou sempre preocupado com performance e boas práticas de desenvolvimento, Gos
 
 ##Extras
 
-* Contribuição na escrita do Awesome SVG de Willian Justen GitHhub.
+* Contribuição na escrita do Awesome SVG de Willian Justen Github.
 
 
 
