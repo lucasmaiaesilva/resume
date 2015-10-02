@@ -33,8 +33,8 @@ Estou sempre preocupado com performance e boas práticas de desenvolvimento, Gos
 * PHP - CodeIgniter
 * NodeJS
 * Mysql - MongoDB
-* Pacote Adobe ( Photoshop, Illustrator, Premiere, After Effects)
-* Linux Elementary OS, Mac OS and Windows
+* Pacote Adobe (Photoshop, Illustrator, Premiere, After Effects)
+* Linux (Elementary OS, Ubuntu), Mac OS and Windows
 * SVG
 
 ##Experiência Profissional

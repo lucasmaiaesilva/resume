@@ -34,7 +34,7 @@ I'm always worried with performance and good practices, I like to read a lot abo
 * NodeJS
 * Mysql - MongoDB
 * Pacote Adobe ( Photoshop, Illustrator, Premiere, After Effects)
-* Linux Elementary OS, Mac OS and Windows
+* Linux (Elementary OS, Ubuntu), Mac OS and Windows
 * SVG
 
 ##Work Experience
