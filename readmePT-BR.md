@@ -10,6 +10,8 @@
 
 **Github:** lucasmaiaesilva
 
+**Twitter:** @lucasmaiaesilva
+
 ##Sobre
 
 Desenvolvedor desde 2010, eu comecei com PHP e nunca mais parei, apaixonado por novas tecnologias, especialmente quando se trata de HTML5.
