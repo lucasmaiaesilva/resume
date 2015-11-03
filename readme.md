@@ -12,6 +12,10 @@
 
 **Twitter:** @lucasmaiaesilva
 
+**LinkdIn:** https://www.linkedin.com/in/lucasmaiaesilva
+
+**Website:** [http://lucasmaiaesilva.com.br](http://lucasmaiaesilva.com.br)
+
 ##About me
 
 Developer since 2010, I started with PHP and never stoped, falling in love for new tecnologies, specialy when is about HTML5.
