@@ -82,6 +82,7 @@ Estou sempre preocupado com performance e boas práticas de desenvolvimento, Gos
 * Adobe Illustrator Advanced - iPed
 * HTML5 - iPed
 * PHP Mysql Galeria de Vídeos - MX Cursos
+* Web Apps with React JS and Flux
 
 ## Extras
 

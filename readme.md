@@ -83,6 +83,7 @@ I am always worry about performance and good practices, I like to read a lot abo
 * Adobe Illustrator Advanced - iPed
 * HTML5 - iPed
 * PHP Mysql Galeria de Vídeos - MX Cursos
+* Web Apps with React JS and Flux
 
 ## Extras
 
