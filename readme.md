@@ -25,7 +25,7 @@
 * Like clean and light code's 
 * I am creative, hardworking and organized professional.
 
-I am always worry about performance and good practices, I like to read a lot about new tecnologies in my spare time, create solutions is what I love to do.
+I am always worried about performance and good practices, I like to read a lot about new tecnologies in my spare time, create solutions is what I love to do.
 
 
 ## Skills
