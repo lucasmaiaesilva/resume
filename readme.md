@@ -2,7 +2,7 @@
 
 **Location:** São Joaquim de Bicas-MG - Brazil
 
-**Phone Number:** +55 (31) 9319-0165
+**Phone Number:** +55 (31) 99319-0165
 
 **E-mail:** lucasmaiaesilva@gmail.com
 
