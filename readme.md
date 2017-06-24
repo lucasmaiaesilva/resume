@@ -18,43 +18,56 @@
 
 ## About me
 
-* Developer since 2010, I started with PHP and never stoped, falling in love for new tecnologies, specially when is about HTML5.
-* Great Designer
-* Developer 
-* Always learning something new
-* Like clean and light code's 
-* I am creative, hardworking and organized professional.
-
-I am always worried about performance and good practices, I like to read a lot about new tecnologies in my spare time, create solutions is what I love to do.
+Hi, I'm Lucas, I'm a computer scientist and I love to programming projects and things. As a Frontend Developer, I'm always seeking for new challenges and learning something new in my spare time. 
+I really like to teach everything for everyone, that wants to learn.
+If you have some challenging project, please give it to me.
 
 
 ## Skills
 
-* Adobe Creative Suite ( Photoshop, Illustrator, Premiere, After Effects)
-* CSS (Sass, Stylus)
-* CSS Frameworks (Bootstrap, Skeleton, Groundwork CSS)
-* Grunt - Gulp - Yeoman
-* Git - Github
-* HTML5 - Jade
-* Javascript - Handlebars - Ember - JQuery - ReactJS
-* Linux (Elementary OS, Ubuntu), Mac OS and Windows
-* Mysql - MongoDB
-* NodeJS
-* PHP - CodeIgniter
-* Responsive Design (Mobile First)
+HTML
+
+* Jade
 * SVG
+
+Javascript
+
+* ES6
+* React JS
+* Redux
+* Functional Programming
+* Webpack
+* TDD ( Mocha, Jest, chai, Enzyme )
+* Firebase
+* Node JS
+* Express
+* MongoDB
+* Mongoose
+* JSAP ( animation )
+
+CSS
+
+* Stylus
+* SASS
+* Bootstrap
+* Flexbox
 
 
 ## Work Experience
 
-**Company** - Banco Bradesco SA - August 2012 - Present
+**Company** - Freelancer - Nov 2014 - Present
 
-> Working with administration and organizational structure, internal control and sometimes sale bank products and ideas
+As a freelance I worked in a few projects for local clients but i learned a lot with those short jobs.
+Basically on the process I had to learn a lot about new technologies and some of them I use almost everyday.
+
+**Company** - Banco Bradesco SA - Aug 2012 - Jun 2017
+
+> As a banker, my main function is work with financial operation including investiments, I also have a large experience with economy, specially in Brazil ( the place I live currently )
 
 
-**Company** - Prefeitura Municipal de São Joaquim de Bicas - January 2009 - July 2012
+**Company** - Prefeitura Municipal de São Joaquim de Bicas - Jan 2009 - Jul 2012
 
-> Teaching people behind the Digital Include Goverment Program, HTML, BROffice, OS, IT Definitions, Web Programing 
+> In 2009, I started to work with a government in my city, teaching technology for the poor children. The subject of the classes were about HTML, CSS, Javascript and Microsoft Office package.
 
 ## Education
 
@@ -86,6 +99,10 @@ I am always worried about performance and good practices, I like to read a lot a
 * Web Apps with React JS and Flux - Udemy
 * Javascript Ninja - Fernando Daciuk Cursos
 
-## Extras
+## Experiments
 
-* Contribute with SVG Awesome with Willian Justen
+* SVG Christmass Experiment
+* SVG Pocket Guide
+* Newton Pendulum 
+* Fintech App
+* Todo App
