@@ -6,7 +6,7 @@
 
 **E-mail:** lucasmaiaesilva@gmail.com
 
-**Skype:** lucas.maia.e.silva
+**Skype:** lucasmaiaesilva
 
 **Github:** lucasmaiaesilva
 
