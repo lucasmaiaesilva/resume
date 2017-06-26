@@ -99,7 +99,7 @@ Basically on the process I had to learn a lot about new technologies and some of
 * Web Apps with React JS and Flux - Udemy
 * Javascript Ninja - Fernando Daciuk Cursos
 
-## Experiments
+## Open Source Projects
 
 * SVG Christmass Experiment
 * SVG Pocket Guide
