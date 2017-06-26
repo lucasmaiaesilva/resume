@@ -1,6 +1,6 @@
 # Lucas Maia e Silva
 
-**Endereço:** São Joaquim de Bicas-MG - Brazil
+**Localização:** São Joaquim de Bicas-MG - Brazil
 
 **Telefone:** +55 (31) 99319-0165
 
@@ -18,50 +18,60 @@
 
 ## Sobre
 
-* Desenvolvedor desde 2010, eu comecei com PHP e nunca mais parei, apaixonado por novas tecnologias, especialmente quando se trata de HTML5.
-
-* Ótimo Designer
-* Desenvolvedor
-* Sempre disposto a aprender algo novo.
-* Eu gosto de códigos limpos
-* Sou criativo, esforçado e um profissional organizado.
-
-Estou sempre preocupado com performance e boas práticas de desenvolvimento, Gosto de ler bastante sobre novas tecnologias em meu tempo livre, criar soluções é o que eu gosto de fazer.
-
+Oi, Eu sou Lucas, sou um cientista da computação que simplesmente ama programar projetos e coisas. Como um Desenvolvedor Frontend estou sempre procurando novos desafios e aprendendo coisas novas em meu tempo livre. Gosto de ensinar a todos que querem aprender. 
+Se você possui algum projeto desafiador, por favor conte comigo.
 
 ## Habilidades
 
-* Adobe Creative Suite ( Photoshop, Illustrator, Premiere, After Effects)
-* CSS (Sass, Stylus)
-* CSS Frameworks (Bootstrap, Skeleton, Groundwork CSS)
-* Grunt - Gulp - Yeoman
-* Git - Github
-* HTML5 - Jade
-* Javascript - Handlebars - Ember - JQuery - ReactJS
-* Linux (Elementary OS, Ubuntu), Mac OS and Windows
-* Mysql - MongoDB
-* NodeJS
-* PHP - CodeIgniter
-* Responsive Design (Mobile First)
+HTML
+
+* Jade
 * SVG
 
-## Experiência Profissional
+Javascript
 
-**Empresa** - Banco Bradesco SA - Agosto 2012 - atualmente
+* ES6
+* React JS
+* Redux
+* Functional Programming
+* Webpack
+* TDD ( Mocha, Jest, chai, Enzyme )
+* Firebase
+* Node JS
+* Express
+* MongoDB
+* Mongoose
+* JSAP ( animation )
 
-> Trabalho com a parte administrativa e estrutura organizacional, controle interno e em algumas vezes vendas de produtos e ideias
+CSS
 
-**Empresa** - Prefeitura Municipal de São Joaquim de Bicas - Janeiro 2009 - Julho 2012
+* Stylus
+* SASS
+* Bootstrap
+* Flexbox
 
-> Ensinar pessoas atraves do programa de inclusão digital do governo, HTML, BROffice, Sistemas Operacionais, conceitos em TI, Programação Web
 
-## Acadêmico
+## Experiência 
 
-**Mongo DB for NodeJS Developers - Mongo University** - Setembro 2014 - Junho 2015
+**Empresa** - Freelancer - Nov 2014 - Atualmente
 
-**Ensino Superior Ciências da Computação - Faculdade Pitágoras de Ensino** - Fevereiro 2009 - Dezembro 2013
+Como Freelance, trabalhei em projetos locais, a maioria projetos pequenos, porém aprendi muito com eles, tanto projetos privados como os projetos open source, me deram uma base muito sólida de conhecimento, principalmente alguns conhecimentos mais técnicos dos quais é díficil se adquirir na vida acadêmica.
 
-**PHP Orientado a Objetos - SOS Computadores** - Junho 2012 - Novembro 2013
+**Empresa** - Banco Bradesco SA - Ago 2012 - Jun 2017
+
+> Como bancário, minha principal função é trabalhar com operações financeiras incluindo fundos de investimentos, eu também possuo um bom conhecimento em economia, principalmente economia do Brasil que é o país que eu moro atualmente.
+
+**Empresa** - Prefeitura Municipal de São Joaquim de Bicas - Jan 2009 - Jul 2012
+
+> EM 2009, eu comecei a trabalhar em um programa de inclusão digital para crianças carentes, numa parceria do Governo Federal e a prefeitura. As principais aulas eram sobre HTML, CSS, Javascript e o pacote Office.
+
+## Certificação
+
+**Mongo DB for NodeJS Developers - Mongo University** - September 2014 - June 2015
+
+**Computer Science - Pitágoras College** - February 2009 - December 2014
+
+**OOP PHP - SOS Computadores** - June 2012 - November 2013
 
 ## Idiomas
 
@@ -82,15 +92,13 @@ Estou sempre preocupado com performance e boas práticas de desenvolvimento, Gos
 * Adobe Illustrator Advanced - iPed
 * HTML5 - iPed
 * PHP Mysql Galeria de Vídeos - MX Cursos
-* Web Apps with React JS and Flux
+* Web Apps with React JS and Flux - Udemy
+* Javascript Ninja - Fernando Daciuk Cursos
 
-## Extras
+## Projetos Open Source
 
-* Contribuição na escrita do Awesome SVG de Willian Justen no Github.
-
-
-
-
-
-
-
+* SVG Christmass Experiment
+* SVG Pocket Guide
+* Newton Pendulum 
+* Fintech App
+* Todo App
